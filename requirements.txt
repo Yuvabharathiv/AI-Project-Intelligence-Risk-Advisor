@@ -1,0 +1,8 @@
+
+streamlit>=1.57
+altair
+pymupdf
+python-docx
+pandas
+numpy
+sentence-transformers

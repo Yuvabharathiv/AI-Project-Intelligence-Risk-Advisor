@@ -1,0 +1,42 @@
+# MACHINE LEARNING — CLASS NOTES
+
+**Subject:** Machine Learning  
+**Unit:** 1 — Introduction to Machine Learning  
+**Prepared by:** Yuvabharathi V
+
+## 1. Introduction
+
+Machine Learning (ML) is a branch of Artificial Intelligence that enables computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every task.
+
+## 2. Types of Machine Learning
+
+**Supervised Learning:** The model learns from labelled data. Examples include spam email detection, house price prediction, and student result prediction.
+
+**Unsupervised Learning:** The model identifies patterns in unlabelled data. Examples include customer segmentation and grouping similar documents.
+
+**Reinforcement Learning:** An agent learns by interacting with an environment and receiving rewards or penalties. Examples include robotics and game-playing systems.
+
+## 3. Important Algorithms
+
+- Linear Regression — predicts continuous numerical values.
+- Logistic Regression — commonly used for classification.
+- Decision Tree — makes decisions using a tree-like structure.
+- K-Means Clustering — groups similar data points.
+- Random Forest — combines multiple decision trees.
+
+## 4. Applications
+
+Machine learning is used in healthcare, banking, recommendation systems, fraud detection, image recognition, and natural language processing.
+
+## 5. Advantages and Limitations
+
+Advantages include automation, pattern discovery, and prediction. Limitations include the need for good-quality data, computational resources, and careful evaluation.
+
+## 6. Revision Questions
+
+1. Define Machine Learning.
+2. Differentiate supervised and unsupervised learning.
+3. What is the purpose of Linear Regression?
+4. Give two real-world applications of Machine Learning.
+
+**End of Notes**

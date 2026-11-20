@@ -1,0 +1,22 @@
+PROJECT STATUS AND SCOPE
+Project: AI Project Intelligence and Risk Advisor
+
+Project goal: Help project teams understand project scope, delivery status, decisions, and next steps by analyzing their project documents.
+
+Deliverable: A Streamlit dashboard that summarizes project health, documented scope, milestones, actions, and source-linked project findings.
+Deliverable: An incremental document knowledge base that accepts PDF, DOCX, CSV, and TXT files, indexes new or changed files, and retains existing sources.
+Deliverable: Evidence-linked project analysis that extracts goals, deliverables, milestones, dates, owners, delivery concerns, decisions, and action items.
+Deliverable: A conversational project assistant that answers from retrieved document passages and cites its sources.
+Deliverable: A downloadable project report containing the scope summary, user-story templates, findings, actions, and health-score rationale.
+
+Milestone: Milestone 4 — Project Insights and Risk Summary Dashboard, incremental document upload, end-to-end testing, technical documentation, and final demonstration.
+Timeline: The milestone is planned for project Weeks 7–8, with approximately 10 hours of effort.
+
+Status: Milestone 4 implementation is complete. The dashboard renders successfully, and 24 automated tests pass, including document workflows for PDF, DOCX, CSV, and TXT files.
+
+Technical approach: The application uses Streamlit, local SQLite storage, sentence-transformer embeddings, and transparent text-matching analysis. Uploaded source files are not copied into the knowledge base; extracted text passages, embeddings, content hashes, and analysis results are stored locally.
+
+Action item: Run the final demonstration, showing incremental upload, the insights dashboard, source-grounded questions and answers, and report download.
+Owner: Not specified in the project details provided.
+
+Scoring note: The displayed health score is a rule-based summary of explicit document signals. It is not a prediction of project success or a measure of completed work.
