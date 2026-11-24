@@ -17,3 +17,4 @@ venv/
 # Operating system
 .DS_Store
 Thumbs.db
+.data/
